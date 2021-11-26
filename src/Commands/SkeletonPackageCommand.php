@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Uchm4n\SkeletonPackage\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class SkeletonPackageCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'skeleton-package';
 
     public $description = 'My command';
 
